@@ -17,19 +17,20 @@ body{
  	position: absolute;
  	left:25%;
  }
-.info {
+ .name .content .p-1{
+	color: #EEE2DF;
+	font-family: 'Roboto Slab', serif;
+	font-weight: bolder;
+	font-size: 65px;
+   transform: skewY(5deg);
+ }
+ .info {
 	width: 90%;
 	height: auto;
 	background: #DAFEB7;
 	margin:5% auto;
 	padding: 20px;
 }
-.name .content .p-1{
- 	color: #EEE2DF;
- 	font-family: 'Roboto Slab', serif;
- 	font-weight: bolder;
- 	font-size: 65px;
-	transform: skewY(5deg);
  }
 .name .content .p-2{
  	color: #EEE2DF;
